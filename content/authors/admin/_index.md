@@ -1,27 +1,34 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include hospital epidemiology, antimicrobial resistance, and antimicrobial stewardship.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MS in Biostatistics, in progress
+    institution: Case Western Reserve University
+    year: expected completion in 2022
+  - course: Fellowship in Infectious Diseases
+    institution: University of Colorado
+    year: 2019
+  - course: Residency in Internal Medicine and Pediatrics
+    institution: MetroHealth Medical Center/Case Western Reserve University
+    year: 2017
+  - course: Doctor of Medicine
+    institution: University of Cincinnati
+    year: 2013
+  - course: Bachelor of Arts in English
+    institution: John Carroll University 
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Antimicrobial Stewardship
+- Hospital Epidemiology
+- Antimicrobial Resistance
+- Population Health
+- Healthcare Analytics
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Case Western Reserve University
+  url: https://www.case.edu/medicine/
+role: Assistant Professor of Medicine
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +38,23 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/LeilaSHojat
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https:scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=Y9rUm1gAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/leilahojat
 superuser: true
-title: Nelson Bighetti
+title: Leila Hojat
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Assistant Professor of Medicine within the Division of Infectious Diseases and HIV Medicine at Case Western Reserve University School of Medicine. I also serve as Director of the Antimicrobial Stewardship Program for University Hospitals Cleveland Medical Center. My research interests include hospital epidemiology, treatment of bacterial infections, and antimicrobial resistance. I am passionate about antimicrobial stewardship as a means of providing high value, equitable patient care, and to that end, I am seeking to develop a stronger background in health care analytics and informatics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have been heavily involved in both clinical and research aspects of COVID-19 management since the beginning of the pandemic. Currently, I am involved in developing a multidisciplinary outpatient center for treatment of patients with post-acute COVID symptoms. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My personal interests include sustainability, social and economic disparities, mindfulness and self-care, animal rights and environmental advocacy, and support and advocacy for individuals representing marginalized communities, including chronically homeless individuals, individuals seeking asylum, people who inject drugs, and people living with HIV. I enjoy all things cats, crafts, and running. 
+
+I love connecting with others with similar interests, so please feel free to reach out to connect on any of these topics!
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_12_20.pdf" "newtab" >}}resumé{{< /staticref >}}.
