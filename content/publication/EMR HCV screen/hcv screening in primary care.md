@@ -2,7 +2,7 @@
 title: "Doubling Hepatitis C Virus Screening in Primary Care Using Advanced Electronic Health Record Tools-A Non-Randomized Controlled Trial"
 date: 2020-02-01
 publishDate: 2020-02-01
-authors: ["Leila Hojat", "Ann Avery", "Peter J Greco", "David C Kaelber"]
+authors: ["**Leila Hojat**", "Ann Avery", "Peter J Greco", "David C Kaelber"]
 publication_types: ["2"]
 abstract: "**Background** Hepatitis C virus (HCV) infection is a major public health burden, affecting over 4 million people. The Centers for Disease Control and Prevention and the US Preventive Services Task Force guidelines recommend screening everyone born between 1945 and 1965, but screening rates remain low.
 **Objective** To determine whether bulk ordering and electronic messaging to patients improves guideline-based HCV screening rates.
