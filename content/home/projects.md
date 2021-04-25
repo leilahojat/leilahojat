@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
 title: Projects
 subtitle: ''
@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Antimicrobial Stewardship
     tag: Antimicrobial Stewardship
+  - name: Antimicrobial Resistance
+    tag: Antimicrobial Resistance
   - name: Other
     tag: Demo
 

@@ -4,6 +4,7 @@ date: 2020-05-27
 publishDate: 2020-05-27
 authors: ["Jason D Goldman", "David C B Lye", "David S Hui", "Kristen M Marks", "Raffaele Bruno", "Rocio Montejano", "Christoph D Spinner", "Massimo Galli", "Mi-Young Ahn", "Ronald G Nahass", "Yao-Shen Chen", "Devi SenGupta", "Robert H Hyland", "Anu O Osinusi", "Huyen Cao", "Christiana Blair", "Xuelian Wei", "Anuj Gaggar", "Diana M Brainard", "William J Towner", "Jose Muñoz", "Kathleen M Mullane", "Francisco M Marty", "Karen T Tashima", "George Diaz", "Aruna Subramanian", "**GS-US-540-5773 Investigators**"]
 header:
+  caption: ""
   image: "NEJMoa2015301_f2.jpg"
 publication_types: ["2"]
 abstract: "**Background** Remdesivir is an RNA polymerase inhibitor with potent antiviral activity in vitro and efficacy in animal models of coronavirus disease 2019 (Covid-19).
@@ -12,4 +13,12 @@ abstract: "**Background** Remdesivir is an RNA polymerase inhibitor with potent 
 **Conclusions** In patients with severe Covid-19 not requiring mechanical ventilation, our trial did not show a significant difference between a 5-day course and a 10-day course of remdesivir. With no placebo control, however, the magnitude of benefit cannot be determined. (Funded by Gilead Sciences; GS-US-540-5773 ClinicalTrials.gov number, NCT04292899.)."
 featured: false 
 publication: "New England Journal of Medicine"
+
+# Custom links (uncomment lines below)
+links:
+ - name: DOI
+   url: https://www.nejm.org/doi/10.1056/NEJMoa2015301
+ - name: PDF
+   url: https://www.nejm.org/doi/pdf/10.1056/NEJMoa2015301?articleTools=true
+
 ---

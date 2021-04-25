@@ -10,4 +10,10 @@ abstract: "**Background** Perinatal exposure to hepatitis C virus (HCV) is a maj
 **Conclusions** Among children with perinatal HCV exposure, using a point-of-care alert within the EHR significantly increased the HCV antibody testing rate in accordance with American Academy of Pediatrics (AAP) recommendations. More effective EHR-based interventions combined with increased provider awareness of appropriate HCV testing in perinatally exposed infants is imperative."
 featured: false 
 publication: "The Pediatric Infectious Diseases Journal"
+
+links:
+ - name: DOI
+   url: https://journals.lww.com/pidj/Abstract/2020/10000/Using_Preventive_Health_Alerts_in_the_Electronic.12.aspx
+ - name: PubMed
+   url: https://pubmed.ncbi.nlm.nih.gov/32453202/
 ---

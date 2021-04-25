@@ -14,4 +14,10 @@ abstract: "**Background** Hepatitis C virus (HCV) infection is a major public he
 **Conclusions** Leveraging population analytics and bulk ordering in an electronic health record with bulk messaging to a tPHR directly engages patients in blood screening tests and can significantly improve completion. This methodology has a broad range of applications including many recommended screening or disease-specific testing. This bulk ordering and direct-to-patient messaging approach improves patient screening while decreasing provider/staff work."
 featured: false 
 publication: "The Journal of General Internal Medicine"
+
+links:
+ - name: DOI
+   url: https://journals.lww.com/pidj/Abstract/2020/10000/Using_Preventive_Health_Alerts_in_the_Electronic.12.aspx
+ - name: PDF
+   url: https://link.springer.com/content/pdf/10.1007/s11606-019-05536-z.pdf
 ---

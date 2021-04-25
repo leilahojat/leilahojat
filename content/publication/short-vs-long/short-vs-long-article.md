@@ -10,4 +10,10 @@ abstract: "**Background** National guidelines for pneumonia (PNA), urinary tract
 **Conclusions** Shorter courses of antibiotic treatment for PNA, UTI, and ABSSSI with bacteremia were not associated with increased overall risk of clinical failure; however, prospective studies are needed to further evaluate the effectiveness of shorter treatment durations."
 featured: false 
 publication: "Clinical Infectious Diseases"
+
+links:
+ - name: DOI
+   url: https://academic.oup.com/cid/article-abstract/71/12/3071/5678099?redirectedFrom=fulltext
+ - name: PubMed
+   url: https://pubmed.ncbi.nlm.nih.gov/31858136/
 ---
