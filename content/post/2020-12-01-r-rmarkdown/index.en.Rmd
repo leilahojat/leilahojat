@@ -1,37 +1,18 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
+title: "Welcome to My Site"
+author: "Leila Hojat"
+date: 2020-04-24T21:13:14-05:00
 categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+tags: ["R Markdown"]
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+This website was built with blogdown within R Studio using Wowchemy and Netflify web-building tools with hosting on Github. See <https://wowchemy.com/docs/getting-started/> for instructions on how to get started with building a site using these tools. Example R studio code for the Wowchemy starter-academic template can be found at <https://github.com/wowchemy/starter-academic>. Additionally, the original site development followed the YouTube CradelToGraveR tutorial which can be found at <https://www.youtube.com/watch?v=9Jqvaoeh1W4>. For more details on using R Markdown see <http://rmarkdown.rstudio.com>. 
 
-You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
 
-# Including Plots
 
-You can also embed plots. See Figure \@ref(fig:pie) for example:
-
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```
