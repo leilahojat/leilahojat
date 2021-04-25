@@ -57,4 +57,4 @@ My personal interests include sustainability, social and economic disparities, m
 
 I love connecting with others with similar interests, so please feel free to reach out to connect on any of these topics!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_12_20.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_12_20.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
