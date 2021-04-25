@@ -2,7 +2,7 @@
 bio: My research interests include hospital epidemiology, antimicrobial resistance, and antimicrobial stewardship.
 education:
   courses:
-  - course: MS in Biostatistics, in progress
+  - course: Masters in Biostatistics in progress
     institution: Case Western Reserve University
     year: expected completion in 2022
   - course: Fellowship in Infectious Diseases
