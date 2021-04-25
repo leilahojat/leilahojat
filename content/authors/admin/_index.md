@@ -53,7 +53,7 @@ I am an Assistant Professor of Medicine within the Division of Infectious Diseas
 
 I have been heavily involved in both clinical and research aspects of COVID-19 management since the beginning of the pandemic. Currently, I am involved in developing a multidisciplinary outpatient center for treatment of patients with post-acute COVID symptoms. 
 
-My personal interests include sustainability, social and economic disparities, mindfulness and self-care, animal rights and environmental advocacy, and support and advocacy for individuals representing marginalized communities, including chronically homeless individuals, individuals seeking asylum, people who inject drugs, and people living with HIV. I enjoy all things cats, crafts, and running. 
+My personal interests include sustainability, social and economic disparities, animal rights and environmental advocacy, and mindfulness and self-care. I enjoy all things concerning cats, crafts, and Jedi. 
 
 I love connecting with others with similar interests, so please feel free to reach out to connect on any of these topics!
 
