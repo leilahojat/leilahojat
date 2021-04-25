@@ -6,7 +6,7 @@ event: UH Internal Medicine Grand Rounds
 location: Zoom
 
 summary: Will review the diagnosis and management of pneumonia in the inpatient setting. 
-abstract: Will review the diagnosis and management of pneumonia in the inpatient setting. 22
+abstract: Will review the diagnosis and management of pneumonia in the inpatient setting.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
