@@ -11,9 +11,9 @@ knitr::opts_chunk$set(collapse = TRUE)
 ```
 
 
-This website was built with blogdown within R Studio using Wowchemy and Netflify web-building tools with hosting on Github. See <https://wowchemy.com/docs/getting-started/> for instructions on how to get started with building a site using these tools. Example R studio code for the Wowchemy starter-academic template can be found at <https://github.com/wowchemy/starter-academic>. Additionally, the original site development followed the YouTube CradelToGraveR tutorial which can be found at <https://www.youtube.com/watch?v=9Jqvaoeh1W4>. For more details on using R Markdown see <http://rmarkdown.rstudio.com>. 
+This site was built with blogdown within R Studio using Wowchemy and Netflify web-building tools with hosting on Github. See <https://wowchemy.com/docs/getting-started/> for instructions on how to get started with building a site using these tools. Example R studio code for the Wowchemy starter-academic template can be found at <https://github.com/wowchemy/starter-academic>. Additionally, the original site development followed the YouTube CradelToGraveR tutorial which can be found at <https://www.youtube.com/watch?v=9Jqvaoeh1W4>. For more details on using R Markdown see <http://rmarkdown.rstudio.com>. 
 
-Look for ongoing updates to this site!
+Thanks for visiting my website, and look out for ongoing updates! 
 
 
 
