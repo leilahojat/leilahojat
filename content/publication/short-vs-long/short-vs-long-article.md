@@ -11,6 +11,11 @@ abstract: "**Background** National guidelines for pneumonia (PNA), urinary tract
 featured: false 
 publication: "Clinical Infectious Diseases"
 
+image:
+  caption: ''
+  focal_point: Smart
+  preview_only: false
+
 links:
  - name: DOI
    url: https://academic.oup.com/cid/article-abstract/71/12/3071/5678099?redirectedFrom=fulltext

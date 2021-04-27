@@ -11,8 +11,7 @@ abstract: "**Background** Remdesivir is an RNA polymerase inhibitor with potent 
 
 image:
   caption: ''
-  focal_point: ""
-  placement: 2
+  focal_point: Smart
   preview_only: false
 
 featured: false
