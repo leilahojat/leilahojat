@@ -11,7 +11,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 ```
 
 
-This site was built with blogdown within R Studio using Wowchemy and Netflify web-building tools with hosting on Github. See <https://wowchemy.com/docs/getting-started/> for instructions on how to get started with building a site using these tools. Example R studio code for the Wowchemy starter-academic template can be found at <https://github.com/wowchemy/starter-academic>. Additionally, the original site development followed the YouTube CradelToGraveR tutorial which can be found at <https://www.youtube.com/watch?v=9Jqvaoeh1W4>. For more details on using R Markdown see <http://rmarkdown.rstudio.com>. 
+This site was created using the [Wowchemy](https://wowchemy.com/) website builder and [Hugo](https://gohugo.io/) static site generator, with deployment by [Netlify](https://www.netlify.com/) and hosting on [GitHub](https://github.com/). Coding was done in Rstudio using the [blogdown package](https://cran.r-project.org/web/packages/blogdown/blogdown.pdf). More information and instructions on using Wowchemy can be found on their [website](https://wowchemy.com/docs/getting-started/). Example R studio code for the Wowchemy starter-academic template can be found on [GitHub](https://github.com/wowchemy/starter-academic). My subdomain name was obtained through [Rbind support](https://support.rbind.io/about/) by filing an issue on [GitHub](https://github.com/rbind/support/issues).  Additionally, the original site development closely followed the YouTube CradleToGraveR tutorial, which can be found at this [link](https://www.youtube.com/watch?v=9Jqvaoeh1W4). 
 
 Thanks for visiting my website, and look out for ongoing updates! 
 
