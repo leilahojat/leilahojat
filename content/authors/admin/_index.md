@@ -49,12 +49,12 @@ superuser: true
 title: Leila S. Hojat
 ---
 
-I am an Assistant Professor of Medicine within the Division of Infectious Diseases and HIV Medicine at Case Western Reserve University School of Medicine. I also serve as Director of the Antimicrobial Stewardship Program for University Hospitals Cleveland Medical Center. My research interests include hospital epidemiology, treatment of bacterial infections, and antimicrobial resistance. I am passionate about antimicrobial stewardship as a means of providing high value, equitable patient care, and to that end, I am seeking to develop a stronger background in health care analytics and informatics.
+I'm an Assistant Professor of Medicine within the Division of Infectious Diseases and HIV Medicine at Case Western Reserve University School of Medicine. I also serve as Director of the Antimicrobial Stewardship Program for University Hospitals Cleveland Medical Center. My research interests include hospital epidemiology, treatment of bacterial infections, and antimicrobial resistance. I am passionate about antimicrobial stewardship as a means of providing high value, equitable patient care, and to that end, I am seeking to develop a stronger background in health care analytics and informatics.
 
 I have been heavily involved in both clinical and research aspects of COVID-19 management since the beginning of the pandemic. Currently, I am involved in developing a multidisciplinary outpatient center for treatment of patients with post-acute COVID symptoms. 
 
-My personal interests include sustainability, social and economic disparities, animal rights and environmental advocacy, and mindfulness and self-care. I enjoy all things concerning cats, crafts, and Jedi. 
+My personal interests include sustainability, social and economic justice, animal and environmental advocacy, mindfulness, and self-care. I enjoy all things concerning cats and crafts. 
 
 I love connecting with others with similar interests, so please feel free to reach out to connect on any of these topics!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_12_20.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_12_20.pdf" "newtab" >}}CV{{< /staticref >}}.
