@@ -21,7 +21,7 @@ date_end: "2021-06-18T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: {{ .Date }}
+publishDate: 
 
 authors: []
 tags: []
