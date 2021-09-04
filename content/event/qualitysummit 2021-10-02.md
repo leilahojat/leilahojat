@@ -1,7 +1,7 @@
 ---
-title: COVID Review Breakout Session
+title: UH Medicine Quality Summit: The Evolving Face of COVID-19
 
-event: UH Medicine Quality Summit
+event: 2021 UH Quality Summit
 
 location: Zoom
 
@@ -44,4 +44,3 @@ slides: ""
 projects: []
 ---
 
-Further event details to come.
