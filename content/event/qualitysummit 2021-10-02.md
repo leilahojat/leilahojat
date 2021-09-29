@@ -1,5 +1,5 @@
 ---
-title: UH Medicine Quality Summit: The Evolving Face of COVID-19
+title: UH Medicine Quality Summit The Evolving Face of COVID-19
 
 event: 2021 UH Quality Summit
 
