@@ -1,5 +1,5 @@
 ---
-title: Can Electronic Clinical Decision Support Systems Improve the Diagnosis of Urinary Tract Infections?: A Systematic Review and Meta-Analysis
+title: 'Can Electronic Clinical Decision Support Systems Improve the Diagnosis of Urinary Tract Infections?: A Systematic Review and Meta-Analysis'
 
 event: IDWeek October 2022
 

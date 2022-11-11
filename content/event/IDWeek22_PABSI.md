@@ -1,5 +1,5 @@
 ---
-title: Impact of COVID-19 on Mortality Associated with Pseudomonas aeruginosa Bloodstream Infection in the Veterans Health Administration System
+title: 'Impact of COVID-19 on Mortality Associated with Pseudomonas aeruginosa Bloodstream Infection in the Veterans Health Administration System'
 
 event: IDWeek October 2022
 
