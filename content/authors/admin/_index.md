@@ -52,4 +52,4 @@ I'm an Assistant Professor of Medicine within the Division of Infectious Disease
 
 My personal interests include sustainability, social and economic justice, animal and environmental advocacy, and wellness. I enjoy all things concerning cats and crafts. I love connecting with others with similar interests, so please feel free to contact me about any of these topics!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_12_20.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_2022_11.pdf" "newtab" >}}CV{{< /staticref >}}.
