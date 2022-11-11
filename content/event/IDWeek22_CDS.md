@@ -6,8 +6,7 @@ event: IDWeek October 2022
 location: Washington D.C.
 
 summary: Presented our systematic review and meta-analysis of studies describing interventions utilizing clinical decision support to reduce unnecessary urinary diagnostic testing 
-abstract: 
--Background
+abstract: Background
 Urinary tract infection (UTI) is a commonly misdiagnosed infectious condition. Stewardship interventions which successfully reduce rates of asymptomatic bacteriuria treatment (ASB) are often labor intensive, and thus a systematic solution is desirable. In this systematic review and meta-analysis, we aimed to identify published studies describing interventions utilizing clinical decision support (CDS) to reduce unnecessary urinary diagnostic testing and to characterize the effectiveness of these interventions.
 
 Methods

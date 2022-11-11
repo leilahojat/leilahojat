@@ -6,8 +6,7 @@ event: IDWeek October 2022
 location: Washington D.C.
 
 summary: Presented an overview of our study to examine the direct and indirect effects of COVID-19 on Pseudomonas aeruginosa bloodstream infection-associated mortality in the Veterans Health Administration population 
-abstract: 
--Background
+abstract: Background
 Pseudomonas aeruginosa bloodstream infection (PA-BSI) is associated with high mortality. The extent to which the COVID-19 pandemic has introduced challenges to diagnosis and treatment of this infection is unknown. In this study, we examined the direct and indirect effects of COVID-19 on PA-BSI associated mortality in the Veterans Health Administration (VHA) population. 
 
 Methods
