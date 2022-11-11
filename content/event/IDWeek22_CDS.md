@@ -27,7 +27,7 @@ featured: false
 
 links:
 url_code: ""
-url_pdf: "{{% staticref "uploads/IDWeek22_CDS_final.pdf" "newtab" %}}View slides{{% /staticref %}}"
+url_pdf: {{% staticref "uploads/IDWeek22_CDS_final.pdf" "newtab" %}}View slides{{% /staticref %}}
 url_slides: ""
 url_video: ""
 
