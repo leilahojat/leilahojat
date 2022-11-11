@@ -38,9 +38,9 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/LeilaSHojat
-- icon: graduation-cap
-  icon_pack: fas
-  link: https:scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=Y9rUm1gAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=Y9rUm1gAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/leilahojat
