@@ -16,7 +16,7 @@ date_end: "2022-10-20T14:15:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ""
+publishDate: "2022-11-20T15:30:00Z"
 
 authors: []
 tags: []
