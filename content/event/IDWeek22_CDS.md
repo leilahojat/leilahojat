@@ -1,7 +1,7 @@
 ---
 title: 'Can Electronic Clinical Decision Support Systems Improve the Diagnosis of Urinary Tract Infections?: A Systematic Review and Meta-Analysis'
 
-event: IDWeek October 2022
+event: IDWeek October 2022 
 
 location: Washington D.C.
 
