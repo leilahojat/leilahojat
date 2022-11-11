@@ -2,9 +2,9 @@
 bio: My research interests include hospital epidemiology, antimicrobial resistance, and antimicrobial stewardship.
 education:
   courses:
-  - course: Masters in Biostatistics in progress
+  - course: Master of Science in Biostatistics
     institution: Case Western Reserve University
-    year: expected completion in 2022
+    year: 2022
   - course: Fellowship in Infectious Diseases
     institution: University of Colorado
     year: 2019
@@ -21,10 +21,9 @@ email: ""
 highlight_name: false
 interests:
 - Antimicrobial Stewardship
-- Hospital Epidemiology
 - Antimicrobial Resistance
+- Health Equity
 - Population Health
-- Healthcare Analytics
 organizations:
 - name: Case Western Reserve University
   url: https://www.case.edu/medicine/
@@ -49,12 +48,8 @@ superuser: true
 title: Leila S. Hojat
 ---
 
-I'm an Assistant Professor of Medicine within the Division of Infectious Diseases and HIV Medicine at Case Western Reserve University School of Medicine. I also serve as Director of the Antimicrobial Stewardship Program for University Hospitals Cleveland Medical Center. My research interests include hospital epidemiology, treatment of bacterial infections, and antimicrobial resistance. I am passionate about antimicrobial stewardship as a means of providing high value, equitable patient care, and to that end, I am seeking to develop a stronger background in health care analytics and informatics.
+I'm an Assistant Professor of Medicine within the Division of Infectious Diseases and HIV Medicine at Case Western Reserve University School of Medicine. I also serve as Director of the Antimicrobial Stewardship Program for University Hospitals Cleveland Medical Center. My research interests include hospital epidemiology, bloodstream infections, and antimicrobial resistance. I am passionate about antimicrobial stewardship as a means of providing high value, equitable patient care.
 
-I have been heavily involved in both clinical and research aspects of COVID-19 management since the beginning of the pandemic. Currently, I am involved in developing a multidisciplinary outpatient center for treatment of patients with post-acute COVID symptoms. 
-
-My personal interests include sustainability, social and economic justice, animal and environmental advocacy, mindfulness, and self-care. I enjoy all things concerning cats and crafts. 
-
-I love connecting with others with similar interests, so please feel free to contact me about any of these topics!
+My personal interests include sustainability, social and economic justice, animal and environmental advocacy, and wellness. I enjoy all things concerning cats and crafts. I love connecting with others with similar interests, so please feel free to contact me about any of these topics!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_12_20.pdf" "newtab" >}}CV{{< /staticref >}}.
