@@ -27,7 +27,7 @@ featured: false
 
 links:
 url_code: ""
-url_pdf: "IDWeek22_CDS_final.pdf"
+url_pdf: "static/pdf/IDWeek22_CDS_final.pdf"
 url_slides: ""
 url_video: ""
 
